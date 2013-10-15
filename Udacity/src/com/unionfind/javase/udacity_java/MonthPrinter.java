@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 //Write a class Month.
 
+
+
+
 //A Month has a constructor that takes the month number as a parameter (1 for January, 2 for February and so forth)
 //public Month(int monthNumber)
 //If monthNumber is not 1 to 12, set it to 1
